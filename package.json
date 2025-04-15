@@ -1,0 +1,12 @@
+{
+    "name": "docker-ci-cd-demo",
+    "version": "1.0.0",
+    "description": "Node.js app for GitHub Actions Docker CI/CD",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Aung Ko Win",
+    "license": "MIT"
+  }
+  
